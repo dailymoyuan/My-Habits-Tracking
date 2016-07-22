@@ -1,0 +1,2 @@
+# My-Habits-Tracking
+The crossplat-form mobile applition is built on the Ionic platform and is to help users track daily habits. Firebase is used as online database system through the AngularFire APIs to support all the real-time operations. A game-like leaderboard is also implemented to increase user motivattion and users can see their scores and levels privately. Sample codes here are for reference.
